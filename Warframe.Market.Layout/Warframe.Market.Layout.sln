@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warframe.Market.Layout", "Warframe.Market.Layout\Warframe.Market.Layout.csproj", "{10A1910A-86E2-425A-A6E4-FDDFA333B00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A1910A-86E2-425A-A6E4-FDDFA333B00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A1910A-86E2-425A-A6E4-FDDFA333B00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A1910A-86E2-425A-A6E4-FDDFA333B00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A1910A-86E2-425A-A6E4-FDDFA333B00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4DF9A0F-7F32-4B5E-ACF2-31D79810AF3C}
+	EndGlobalSection
+EndGlobal
